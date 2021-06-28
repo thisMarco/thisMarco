@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisMarco&theme=highcontrast&show_icons=true&count_private=true)
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisMarco&theme=dark&show_icons=true&count_private=true)
 
 <!--
 **thisMarco/thisMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
