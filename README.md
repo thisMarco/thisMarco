@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao 👋
 ### 📫 How to reach me: https://www.linkedin.com/in/mpicchillo/
 ### 🔭 My Android Play Store: https://play.google.com/store/apps/developer?id=thisMarco.dev
 
