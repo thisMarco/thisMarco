@@ -1,5 +1,7 @@
 ### Ciao 👋
 ### 📫 How to reach me: https://www.linkedin.com/in/mpicchillo/
+
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thismarco&show_icons=true&locale=en&layout=compact" alt="thismarco" /></p>
 <!--! ### 🔭 My Android Play Store: https://play.google.com/store/apps/developer?id=thisMarco.dev -->
 
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thisMarco&layout=compact)
